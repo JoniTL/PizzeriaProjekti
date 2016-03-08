@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+C:\Users\hyjgygu\Desktop\Kehitys ympäristö\Repositories\Pizzeria\PizzeriaProjekti-master\.metadata\.plugins\org.eclipse.jdt.core
+300245215.index
+1353020854.index
+2006884896.index
